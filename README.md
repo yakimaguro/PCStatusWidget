@@ -1,7 +1,5 @@
-# Tauri + React + Typescript
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+# PCStatusWidget
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![スクリーンショット_20221120_204157](https://user-images.githubusercontent.com/54607611/202900071-5610ccab-995f-4855-a3a6-a247edc3c938.png)
