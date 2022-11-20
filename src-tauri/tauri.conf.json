@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "overlay",
+    "productName": "pcstatus",
     "version": "0.0.0"
   },
   "tauri": {
