@@ -37,6 +37,7 @@ function App() {
   return (
     <div className="shadow">
       <div data-tauri-drag-region className="container">
+        <span className="red"></span>
         <div data-tauri-drag-region className="status">
           <span className="material-symbols-rounded">
           memory

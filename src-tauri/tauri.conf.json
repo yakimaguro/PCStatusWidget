@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "pcstatus",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -55,13 +55,17 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 170,
+        "height": 102,
         "resizable": false,
         "title": "PC Status",
         "width": 200,
         "decorations": false,
         "transparent": true
       }
-    ]
+    ],
+    "systemTray": {
+      "iconPath": "icons/icon.png",
+      "iconAsTemplate": true
+    }
   }
 }
