@@ -2,7 +2,7 @@
 # PCStatusWidget
 
 
-![スクリーンショット_20221120_204157](https://user-images.githubusercontent.com/54607611/202900071-5610ccab-995f-4855-a3a6-a247edc3c938.png)
+![image](https://user-images.githubusercontent.com/54607611/202958777-db536701-d172-4b00-b7db-6d3068b79271.png)
 
 
 # Futures
